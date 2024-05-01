@@ -2,6 +2,12 @@
 # App Link
 https://drive.google.com/file/d/1DS5UD6LB7s_J5sasgnuCn7FP8_8w9CYC/view?usp=sharing
 
+# Auth Credential for testing
+
+`email: sumit@gmail.com`
+
+`password: 123456`
+
 # Tech Stack and Libraries
 
 1. XML (for UI)
